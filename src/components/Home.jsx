@@ -6,7 +6,13 @@ const Home = () => {
   return (
     <div className="hero">
       <div className="card h-100 bg-dark text-white border-0">
-        <img src={bgImg} className="card-img" alt="Background-img" />
+        <img
+          src={bgImg}
+          className="card-img"
+          alt="Background-img"
+          height="600px"
+          width="auto"
+        />
         <div className="card-img-overlay d-flex flex-column justify-content-center">
           <div className="container">
             <h5 className="card-title display-2 fw-bolder">
