@@ -93,9 +93,8 @@ const Products = () => {
                 <div className="card h-100 text-center p-4" key={product.id}>
                   <img
                     src={product.image}
-                    className="card-img-top"
+                    className="card-img-top w-75 h-50 mx-auto"
                     alt={product.title}
-                    height="250px"
                   />
                   <div className="card-body">
                     <h4 className="card-title mb-0">
