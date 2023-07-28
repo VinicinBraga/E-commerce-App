@@ -1,4 +1,4 @@
-# Netflix-Clone
+# E-commerce-App
 ![E-commerce-App](./src/assets/screenshot.png)
 
 O E-commerce-App é um projeto fictício criado para aprimorar minhas habilidades em desenvolvimento web utilizando React e JavaScript. Trata-se de uma aplicação de comércio eletrônico que visa oferecer uma experiência de compra simples, intuitiva e agradável para os usuários.
@@ -37,7 +37,7 @@ npm start
 
 ## Estrutura do Projeto
 ```bash
-Netflix-Clone/
+E-commerce-App/
 ├── public/
 ├── src/
 │   ├── assets/
